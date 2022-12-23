@@ -24,6 +24,7 @@ or build to binary
 
 ```bash
 make build
+PORT=4321 ./app
 ```
 
 ## Licence
